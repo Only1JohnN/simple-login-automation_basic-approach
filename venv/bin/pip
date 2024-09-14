@@ -1,4 +1,4 @@
-#!/Users/mac/4utom4ti0n/venv/bin/python3.12
+#!/Users/mac/Desktop/simple-login-automation_basic-approach/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys

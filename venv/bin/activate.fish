@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/mac/4utom4ti0n/venv"
+set -gx VIRTUAL_ENV "/Users/mac/Desktop/simple-login-automation_basic-approach/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
