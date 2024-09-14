@@ -6,10 +6,8 @@ This project demonstrates a set of UI automation tests using `Selenium` and `pyt
 ![Website Screenshot2](ref/Img_2.png)
 ![Website Screenshot3](ref/Img_3.png)
 ![Website Screenshot4](ref/Img_4.png)
-![Website clip](ref/Automation_Video.mov)
+![Website clip](ref/Automation_Video.mp4)
 
-
-*Screenshot of the login page under test*
 
 ## Prerequisites
 
