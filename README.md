@@ -29,13 +29,6 @@ Follow these steps to set up the project:
     pip install -r requirements.txt
     ```
 
-    Ensure `pytest` and `selenium` are included in the `requirements.txt` file:
-
-    ```text
-    pytest
-    selenium
-    ```
-
 3. Verify that ChromeDriver is installed and available in your system's PATH.
 
 ## Running the Tests
