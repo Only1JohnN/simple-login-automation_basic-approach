@@ -6,7 +6,7 @@ This project demonstrates a set of UI automation tests using `Selenium` and `pyt
 ![Website Screenshot2](ref/Img_2.png)
 ![Website Screenshot3](ref/Img_3.png)
 ![Website Screenshot4](ref/Img_4.png)
-![Website clip](ref/Automation_video.mp4)
+![Watch the demo video here](https://drive.google.com/drive/folders/1oaWIzDZ4LycZCM8_0rl7I3DLlyGaFqd0?usp=sharing)
 
 
 ## Prerequisites
