@@ -115,7 +115,7 @@ This test checks for the appropriate error message when an invalid password is u
 ```
 selenium_pytest_project/
 │
-├── images/                     # Folder for storing images
+├── ref/                     # Folder for storing images
 │   └── Img_1.png               # Screenshot of the website
     └── Img_2.png
     └── Img_3.png
