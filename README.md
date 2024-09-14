@@ -116,12 +116,12 @@ This test checks for the appropriate error message when an invalid password is u
 selenium_pytest_project/
 │
 ├── images/                     # Folder for storing images
-│   └── thumbnail.png
-    └── Img_1.png               # Screenshot of the website
+│   └── Img_1.png               # Screenshot of the website
     └── Img_2.png
     └── Img_3.png
     └── Img_4.png
-├── test_script.py              # Contains the pytest test cases
+    └── thumbnail.png
+├── test_login_page.py              # Contains the pytest test cases
 ├── requirements.txt            # Lists project dependencies
 └── README.md                   # This documentation
 ```
