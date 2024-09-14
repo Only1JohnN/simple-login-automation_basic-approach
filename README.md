@@ -2,7 +2,7 @@
 
 This project demonstrates a set of UI automation tests using `Selenium` and `pytest` to test the login functionality of the website [Practice Test Automation](https://practicetestautomation.com/). The tests cover both positive and negative scenarios for the login page.
 
-![Website Screenshots](images/Img_1.png)(images/Img_2.png)(images/Img_3.png)(images/Img_4.png)
+![Website Screenshots](ref/Img_1.png)(ref/Img_2.png)(ref/Img_3.png)(ref/Img_4.png)(ref/Automation_Video.mov)
 
 *Screenshot of the login page under test*
 
@@ -119,7 +119,8 @@ This test checks for the appropriate error message when an invalid password is u
 selenium_pytest_project/
 │
 ├── images/                     # Folder for storing images
-│   └── Img_1.png               # Screenshot of the website
+│   └── Automation_Video.mov
+    └── Img_1.png               # Screenshot of the website
     └── Img_2.png
     └── Img_3.png
     └── Img_4.png
