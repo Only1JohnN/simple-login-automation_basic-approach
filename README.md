@@ -2,7 +2,12 @@
 
 This project demonstrates a set of UI automation tests using `Selenium` and `pytest` to test the login functionality of the website [Practice Test Automation](https://practicetestautomation.com/). The tests cover both positive and negative scenarios for the login page.
 
-![Website Screenshots](ref/Img_1.png)(ref/Img_2.png)(ref/Img_3.png)(ref/Img_4.png)(ref/Automation_Video.mov)
+![Website Screenshot1](ref/Img_1.png)
+![Website Screenshot2](ref/Img_2.png)
+![Website Screenshot3](ref/Img_3.png)
+![Website Screenshot4](ref/Img_4.png)
+![Website clip](ref/Automation_Video.mov)
+
 
 *Screenshot of the login page under test*
 
