@@ -1,2 +1,2 @@
-/venv
-.DStore
+venv/
+.DS_Store
