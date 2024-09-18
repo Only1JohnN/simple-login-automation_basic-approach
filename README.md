@@ -113,7 +113,7 @@ This test checks for the appropriate error message when an invalid password is u
 ## Folder Structure
 
 ```
-selenium_pytest_project/
+simple-login-automation_basic-approach/
 │
 ├── ref/                     # Folder for storing images
 │   └── Img_1.png               # Screenshot of the website
